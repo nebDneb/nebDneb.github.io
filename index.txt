@@ -1,8 +1,8 @@
-Jack - personal portfolio
+Neb - personal portfolio
 
 # HEDER
 
-Jack.
+Neb
 
 En
 Ar
@@ -205,21 +205,19 @@ Contact
 
 Have You Any Project? Please Drop a Message
 
-Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+Fill out the form and i’ll be in touch as soon as possible.
 
 <ion-icon name="location-outline"></ion-icon>
 Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+Aurora, CO 80014
 
 <ion-icon name="call-outline"></ion-icon>
 Phone:
-(01) 234 567 789
-(09) 765 432 200
+(303) 246 2036
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+QualityEntropy@gmail.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
